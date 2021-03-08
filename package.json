@@ -5,6 +5,7 @@
   "dependencies": {
     "configurable-http-proxy": "4.2.3",
     "follow-redirects": "1.13.3",
-    "color-string": "1.5.5"
+    "color-string": "1.5.5",
+    "color-name": "1.1.4"
   }
 }
